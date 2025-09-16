@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thuvien>
+    <sach>
+        <title>Lập Trình C++ Cơ Bản</title>
+        <author>Nguyễn Văn Anh</author>
+        <year>2020</year>
+        <genre>Lập trình</genre>
+    </sach>
+    <sach>
+        <title>Học Máy Cơ Bản</title>
+        <author>Trần Thị Bình</author>
+        <year>2021</year>
+        <genre>Khoa học dữ liệu</genre>
+    </sach>
+    <sach>
+        <title>Thiết Kế Web Với HTML & CSS</title>
+        <author>Lê Văn Công</author>
+        <year>2019</year>
+        <genre>Web Development</genre>
+    </sach>
+</thuvien>

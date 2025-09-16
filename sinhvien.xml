@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lop>
+    <sinhvien>
+        <name>Nguyễn Văn An</name>
+        <id>SV001</id>
+        <subjects>
+            <subject>
+                <subject_name>Lập Trình C++</subject_name>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <subject_name>Cơ Sở Dữ Liệu</subject_name>
+                <score>7.8</score>
+            </subject>
+        </subjects>
+    </sinhvien>
+
+    <sinhvien>
+        <name>Trần Thị Bình</name>
+        <id>SV002</id>
+        <subjects>
+            <subject>
+                <subject_name>Mạng Máy Tính</subject_name>
+                <score>9.0</score>
+            </subject>
+            <subject>
+                <subject_name>Hệ Điều Hành</subject_name>
+                <score>8.2</score>
+            </subject>
+        </subjects>
+    </sinhvien>
+
+    <sinhvien>
+        <name>Lê Văn Cường</name>
+        <id>SV003</id>
+        <subjects>
+            <subject>
+                <subject_name>Trí Tuệ Nhân Tạo</subject_name>
+                <score>9.5</score>
+            </subject>
+            <subject>
+                <subject_name>Kỹ Thuật Lập Trình</subject_name>
+                <score>8.7</score>
+            </subject>
+        </subjects>
+    </sinhvien>
+</lop>
