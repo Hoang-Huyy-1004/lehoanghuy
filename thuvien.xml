@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE thuvien SYSTEM "thuvien.dtd">
 <thuvien>
     <sach>
         <title>Lập Trình C++ Cơ Bản</title>
@@ -13,7 +14,7 @@
         <genre>Khoa học dữ liệu</genre>
     </sach>
     <sach>
-        <title>Thiết Kế Web Với HTML & CSS</title>
+        <title>Thiết Kế Web Với HTML và CSS</title>
         <author>Lê Văn Công</author>
         <year>2019</year>
         <genre>Web Development</genre>
