@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSSV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="DSSV.xsd">
+
+    <!-- Danh sách khoa -->
+    <KHOA>
+        <MAKHOA>MK01</MAKHOA>
+        <TENKHOA>CNTT</TENKHOA>
+    </KHOA>
+
+    <KHOA>
+        <MAKHOA>MK02</MAKHOA>
+        <TENKHOA>KHXH</TENKHOA>
+    </KHOA>
+
+    <!-- Danh sách lớp -->
+    <LOP>
+        <MALOP>KTPM2211</MALOP>
+        <TENLOP>Kỹ thuật phần mềm</TENLOP>
+        <MAKHOA>MK01</MAKHOA>
+    </LOP>
+
+    <LOP>
+        <MALOP>LUAT2211</MALOP>
+        <TENLOP>Luật</TENLOP>
+        <MAKHOA>MK02</MAKHOA>
+    </LOP>
+
+    <!-- Danh sách sinh viên -->
+    <SINHVIEN>
+        <MSSV>KTPM2211008</MSSV>
+        <HOTEN>Huỳnh Thị Câm Nhung</HOTEN>
+        <EMAIL>htcnhung@gamil.com</EMAIL>
+        <DIACHI>Vĩnh Long</DIACHI>
+        <SDT>0123456789</SDT>
+        <MALOP>KTPM2211</MALOP>
+    </SINHVIEN>
+
+    <SINHVIEN>
+        <MSSV>LUAT2211009</MSSV>
+        <HOTEN>Huỳnh Tấn Lộc</HOTEN>
+        <EMAIL>htloc@gmail.com</EMAIL>
+        <DIACHI>Đà Nẵng</DIACHI>
+        <SDT>0987654321</SDT>
+        <MALOP>LUAT2211</MALOP>
+    </SINHVIEN>
+
+</DSSV>
